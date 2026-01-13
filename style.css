@@ -143,6 +143,13 @@
   margin-bottom: 60px;
 }
 
+.asp3 {
+  font-size: 14px;
+  line-height: 22px;
+  color: #737373;
+  text-align: center;
+}
+
 .nn1 {
   width: 328px;
   height: 139px;
@@ -172,6 +179,36 @@
   justify-content: space-between;
   margin: auto;
   margin-top: 30px;
+}
+
+.mir2211 {
+  max-width: 744px;
+  height: 362px;
+  gap: 30px;
+  border-radius: 5px;
+  border-width: 1px;
+  gap: 30px;
+  border-radius: 5px;
+  text-align: center;
+  background: #FFFFFF;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.mir2211 .img2 {
+  margin-top: 30px;
+  background-color: white;
+}
+.mir2211 p {
+  background-color: white;
+}
+.mir2211 img {
+  background-color: white;
+}
+.mir2211 .pp4 {
+  margin-top: 0px;
+  font-size: 27px;
+  color: #252B42;
+  font-weight: 700;
 }
 
 @media (max-width: 600px) {
